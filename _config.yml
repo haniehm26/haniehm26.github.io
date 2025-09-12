@@ -3,7 +3,7 @@ description: Learning, Writing, Sharing
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+# theme: cvless
 
 # site settings
 taglong: Learning, Writing, Sharing
@@ -43,6 +43,8 @@ exclude:
   - Gemfile
   - vendor/
 
+remote_theme: pangpanglabs/cvless
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -53,5 +55,3 @@ plugins:
 
 sass:
   sourcemap: never
-
-remote_theme: pangpanglabs/cvless
