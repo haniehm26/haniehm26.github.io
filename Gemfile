@@ -4,7 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # Jekyll and Theme
 gem "jekyll", "~> 3.10.0"
-gem "cvless", "2.7.0"
+# gem "cvless", "2.7.0"
 gem "jekyll-paginate-v2", "3.0.0"
 gem "webrick", "1.9.1" 
 gem "erb", "4.0.4"

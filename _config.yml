@@ -3,7 +3,9 @@ description: Learning, Writing, Sharing
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+# theme: cvless
+remote_theme: piazzai/cvless
+
 
 # site settings
 taglong: Learning, Writing, Sharing
@@ -55,5 +57,4 @@ plugins:
 sass:
   sourcemap: never
 
-remote_theme: piazzai/cvless
   
