@@ -53,3 +53,5 @@ plugins:
 
 sass:
   sourcemap: never
+
+remote_theme: pangpanglabs/cvless

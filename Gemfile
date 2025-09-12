@@ -5,8 +5,6 @@ gem "jekyll", "~> 3.10.0"
 gem "cvless", "2.7.0"
 gem "jekyll-paginate-v2", "3.0.0"
 gem "webrick", "1.9.1" 
-
-# Ruby standard libraries
 gem "erb", "4.0.4"
 gem "cgi", "0.5.0"
 gem "csv", "3.3.5"
@@ -19,8 +17,6 @@ gem "securerandom", "0.4.1"
 gem "benchmark", "0.4.1"
 gem "bigdecimal", "3.2.2"
 gem "drb", "2.2.3"
-
-# Gems for Jekyll/plugins
 gem "nokogiri", "1.18.9"
 gem "i18n", "1.14.7"
 gem "commonmarker", "0.23.11"
@@ -33,8 +29,5 @@ gem "activesupport", "8.0.2"
 gem "connection_pool", "2.5.3"
 gem "minitest", "5.25.5"
 gem "ffi", "1.17.2"
-
-# Jekyll remote theme plugin
 gem "jekyll-remote-theme"
-
 gem "dnsruby", "1.72.4"
