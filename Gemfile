@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "github-pages", group: :jekyll_plugins
+
 # Jekyll and Theme
 gem "jekyll", "~> 3.10.0"
 gem "cvless", "2.7.0"

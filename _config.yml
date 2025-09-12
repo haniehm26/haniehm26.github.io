@@ -50,8 +50,10 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 sass:
   sourcemap: never
 
-remote_theme: pangpanglabs/cvless
+remote_theme: piazzai/cvless
+  
