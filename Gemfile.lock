@@ -320,6 +320,7 @@ DEPENDENCIES
   connection_pool (= 2.5.3)
   csv (= 3.3.5)
   cvless (= 2.7.0)
+  dnsruby (= 1.72.4)
   drb (= 2.2.3)
   erb (= 4.0.4)
   execjs (= 2.10.0)

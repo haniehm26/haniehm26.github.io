@@ -36,3 +36,5 @@ gem "ffi", "1.17.2"
 
 # Jekyll remote theme plugin
 gem "jekyll-remote-theme"
+
+gem "dnsruby", "1.72.4"
